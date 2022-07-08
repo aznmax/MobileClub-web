@@ -198,8 +198,7 @@ h2 {
     justify-content: center;
     flex-direction: column;
     margin: 0;
-    position: relative;
-    right: 80px;
+  
 }
 .descriptions span {
     text-align: center;
@@ -334,16 +333,10 @@ h2 {
     .descriptions {
         display: flex;
         flex-direction: column;
-      margin-left: auto;
       margin-right: auto;
     }
 
-    .descriptions span{
-        position: relative;
-        left: 20%;
-        display:inline-block;
-        text-align: center;
-    }
+
     .container_Advantage {
         display: flex;
         flex-direction: column;
