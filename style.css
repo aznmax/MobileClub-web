@@ -201,7 +201,7 @@ h2 {
   
 }
 .descriptions span {
-    text-align: center;
+    margin-left: 33px;
     font-size: 90px;
     font-family: boing, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif,
         Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -215,7 +215,7 @@ h2 {
 }
 .subtitle_advantage {
     margin-right: auto;
-    margin-left: 130px;
+    margin-left: 40px;
     font-weight: bolder;
     text-align: left;
     max-width: 300px;
@@ -224,7 +224,7 @@ h2 {
 
 .container_Advantage .title_advantage:nth-child(2) {
     text-align: left;
-    margin-left: 130px;
+    margin-left: 40px;
 }
 .container_Advantage .subtitle_advantage:nth-child(2) {
     text-align: left;
